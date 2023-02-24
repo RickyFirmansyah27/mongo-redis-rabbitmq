@@ -10,6 +10,13 @@ npm install
 
 Run program
 ```
-nodemon index
+nodemon app
 ```
 
+###Endpoint
+http://localhost:5000/queue
+
+Screenshot
+#### Screenshoot Output
+Output Node
+![rabbitMQ](images/rabbitMQ.PNG)
