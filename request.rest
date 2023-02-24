@@ -24,6 +24,10 @@ GET http://localhost:5000/users
 ###
 GET http://localhost:5000/buku
 
+###
+GET http://localhost:5000/Contents
+
+
 
 
 //Check Pemanggilan
@@ -40,3 +44,7 @@ GET http://localhost:5000/users/checkusers/2
 
 ###
 GET http://localhost:5000/users/checkbooks/2
+
+//RabitMQ
+###
+GET http://localhost:5000/queue
